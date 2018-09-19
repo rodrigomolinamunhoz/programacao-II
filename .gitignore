@@ -1,0 +1,19 @@
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+.metadata
+.recommenders
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
