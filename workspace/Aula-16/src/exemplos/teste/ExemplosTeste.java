@@ -14,5 +14,4 @@ class ExemplosTeste {
 		double esperado = v.salarioComComissao();
 		assertEquals(1050.0, esperado);
 	}
-
 }
