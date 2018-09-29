@@ -42,5 +42,8 @@ public class TesteExercicio1 {
 				break;
 			}
 		} while (opcao != 0);*/
+		
+		
+		
 	}
 }
