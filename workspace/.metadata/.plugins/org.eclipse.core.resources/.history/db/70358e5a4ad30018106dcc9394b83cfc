@@ -1,0 +1,33 @@
+package exercicio1;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Cadastro {
+
+	public static void main(String[] args) {
+		ArrayList<Imovel> bairro = new ArrayList<Imovel>(); 
+		
+		Scanner leitor = new Scanner(System.in);
+		int opcao = 0;
+		do {
+			listarMenu();
+			
+			try {
+				opcao = Integer.parseInt(leitor.nextLine());
+			} catch (Exception e) {
+				opcao = 0;
+				System.out.println("Entrada inválida!");
+			}
+			
+			
+		} while (opcao != 4);
+	}
+	
+	public static void listarMenu() {
+		System.out.println("1 - Cadastrar imóvel");
+		System.out.println("2 - Listar imóvel");
+		System.out.println("3 - Remover imóvel");
+		System.out.println("4 - Sair");
+	}
+}

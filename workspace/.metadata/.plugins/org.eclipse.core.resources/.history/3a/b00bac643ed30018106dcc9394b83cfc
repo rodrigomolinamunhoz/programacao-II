@@ -1,0 +1,28 @@
+package exemplo;
+
+import java.util.Scanner;
+
+public class Cadastro {
+
+	public static void main(String[] args) {
+		//Leitura do txt
+		
+		
+		//Programa
+		Scanner leitor = new Scanner(System.in);
+		int opcao = 0;
+		do {
+			System.out.println("1 - novo carro");
+			System.out.println("2 - listar carro");
+			System.out.println("3 - sair");
+			System.out.print("> ");
+			
+			opcao = Integer.parseInt(leitor.nextLine());
+			
+			
+		} while (opcao != 3);
+		
+		//Salvar no txt
+	}
+
+}

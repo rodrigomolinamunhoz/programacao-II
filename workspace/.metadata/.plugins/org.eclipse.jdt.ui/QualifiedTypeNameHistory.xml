@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="exercicio3.NotaFiscal"/>
+    <fullyQualifiedTypeName name="jogo.pessoas.Jogador"/>
+    <fullyQualifiedTypeName name="jogo.pessoas.Treinador"/>
+    <fullyQualifiedTypeName name="jogo.pessoas.Juiz"/>
+    <fullyQualifiedTypeName name="jogo.equipamentos.Bola"/>
+    <fullyQualifiedTypeName name="jogo.equipamentos.Campo"/>
+    <fullyQualifiedTypeName name="exercicio2.Correntista"/>
+    <fullyQualifiedTypeName name="exercicio3.CrescimentoPopulacional"/>
+    <fullyQualifiedTypeName name="exercicio1.Hospital"/>
+    <fullyQualifiedTypeName name="java.lang.instrument.Instrumentation"/>
+    <fullyQualifiedTypeName name="exercicio1.DiscoRigido"/>
+    <fullyQualifiedTypeName name="exercicio1.Monitor"/>
+    <fullyQualifiedTypeName name="exercicio2.Produto"/>
+    <fullyQualifiedTypeName name="exercicio2.Comprador"/>
+    <fullyQualifiedTypeName name="exemplos.Vendedor"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="javax.swing.SwingUtilities"/>
+    <fullyQualifiedTypeName name="exemplo.TesteLeitor"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.nio.Buffer"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="exemplo.Carro"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
