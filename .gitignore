@@ -1,10 +1,15 @@
+out
+.classpath
+.project
+.settings
+.metadata
+*.log
+*.zip
 *.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-target/*
-.idea/workspace.xml
-.idea/tasks.xml
+*.swp
+target
+classes
+build
+bin
+classes
+*~
